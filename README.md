@@ -34,7 +34,7 @@ AI-powered resume screening application
 4. **Access the application**
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:5002/api
-- MongoDB: mongodb+srv://purushottampradhan97:lcRZLmzd6LbWRfvV@cluster0.rmymiak.mongodb.net/resume_screening?retryWrites=true&w=majority&appName=Cluster0
+- MongoDB: -- 
 
 
 ### Application setup
