@@ -42,6 +42,7 @@ AI-powered resume screening application
 #### Backend Setup
 ```bash
 cd backend
+touch .env # add add env variable
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
